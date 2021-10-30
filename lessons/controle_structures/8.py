@@ -10,6 +10,7 @@ cheak_age(Annie)
 """
 #or
 
+"""
 if Paul >= 18:
     print("adult")
 else: print("not adult")
@@ -18,5 +19,10 @@ if Annie >= 18:
     print("adult")
 else: print("not adult")
 
-
-
+"""
+if Paul >= 18 and Annie >= 18:
+    print("adult")
+else:
+    print("at least one f them not adult")
+    
+    
